@@ -1,9 +1,9 @@
 # Supplementary Codes for the Opportune moment dataset
 This repository is for supplementary codes used to explore and analyze the Opportune moment dataset.
 
-Data descriptor URL:
+Data descriptor URL: ______________________
 
-Dataset URL:
+Dataset URL: ______________________
 
 # Enironment 
 We have run this code under the environment as below:
