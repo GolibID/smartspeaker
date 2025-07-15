@@ -26,7 +26,7 @@ Download this repository
 $ git clone https://github.com/GolibID/smartspeaker.git
 $ cd smartspeaker
 ```
-Replicate our conda environment environment.yml, referring to this.
+Replicate our conda environment [environment.yml](environment.yml), referring to this.
 
 Run your own Jupyter environment.
 
