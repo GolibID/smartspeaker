@@ -23,8 +23,8 @@ Download the Opportune moment dataset.
 
 Download this repository
 ```console
-$ git clone [https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes.git](https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes.git)
-$ cd K-EmoPhone_SupplementaryCodes
+$ git clone https://github.com/GolibID/smartspeaker.git
+$ cd smartspeaker
 ```
 Replicate our conda environment environment.yml, referring to this.
 
