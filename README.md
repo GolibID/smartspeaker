@@ -21,6 +21,11 @@ In addition, you need to install [conda](https://conda.io/projects/conda/en/late
 # HOW-TO
 Download the Opportune moment dataset. 
 
+Download this repository
+```console
+$ git clone [https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes.git](https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes.git)
+$ cd K-EmoPhone_SupplementaryCodes
+```
 Replicate our conda environment environment.yml, referring to this.
 
 Run your own Jupyter environment.
