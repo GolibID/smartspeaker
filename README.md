@@ -21,8 +21,6 @@ In addition, you need to install [conda](https://conda.io/projects/conda/en/late
 # HOW-TO
 Download the Opportune moment dataset. 
 
-Download this repository.
-
 Replicate our conda environment environment.yml, referring to this.
 
 Run your own Jupyter environment.
