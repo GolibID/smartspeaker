@@ -16,6 +16,7 @@ RAM: 32GB
 
 * This is not mandatory; you can run this code although you have the smaller number of cores or RAM.
 
+In addition, you need to install [conda](https://conda.io/projects/conda/en/latest/index.html) for managing packages and virtual environment.
 
 # HOW-TO
 Download the Opportune moment dataset. 
