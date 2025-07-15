@@ -30,4 +30,4 @@ Replicate our conda environment [environment.yml](environment.yml), referring to
 
 Run your own Jupyter environment.
 
-Then, open technical_validation_open.ipynb.
+Then, open technical_validation.ipynb.
